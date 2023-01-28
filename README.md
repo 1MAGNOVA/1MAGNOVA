@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1MAGNOVA
 - 👀 I’m interested in ...python, C#, FLUTTER, and Solidity
-- 🌱 I’m currently learning ... Flutter
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...python projects
 - 📫 How to reach me ...Olalekanabsm@gmail.com  
 
