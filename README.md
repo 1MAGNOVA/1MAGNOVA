@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1MAGNOVA
 - 👀 I’m interested in ...python, js, C#(game development) and Solidity
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... react.js
 - 💞️ I’m looking to collaborate on ...python/js projects
 - 📫 How to reach me ...Olalekanabsm@gmail.com  
 
