@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @1MAGNOVA
+  - python, C, shell scripting...
 - 👀 I’m interested in ...`python, js, C#(game development) and Solidity
 - 🌱 I’m currently learning ... react.js
 - 💞️ I’m looking to collaborate on ...python/js projects
