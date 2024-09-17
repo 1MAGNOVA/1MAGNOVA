@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @1MAGNOVA
-  - python, C, shell scripting...
-- 👀 I’m interested in ...`python, js, C# and Solidity
+  -Cybersecurity | python | shell scripting | SQL
+- 👀 I’m interested in ...`python, js, C#, SQL
 - 🌱 I’m currently learning ... react.js
-- 💞️ I’m looking to collaborate on ...python/js projects
+- 💞️ I’m looking to collaborate on ...python/js/devops projects
 - 📫 How to reach me ...Olalekanabsm@gmail.com  
 
 <!---
