@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm OLalekan Sanni</h1>
+<h1 align="center">Hi there 👋, I'm Olalekan Sanni</h1>
 <h3 align="center">Backend Engineer | DevOps Enthusiast | Ethical Hacker & Cybersecurity Analyst</h3>
 
 <p align="center">
@@ -34,7 +34,5 @@ Languages: Python | Bash | JavaScript | SQL
 Backend: Django | Flask | FastAPI | PostgreSQL
 DevOps: Docker | GitHub Actions | NGINX | AWS (learning)
 Cybersecurity: Burp Suite | Nmap | Wireshark | Metasploit | Linux Hardening | OWASP
-Tools: Git | Linux | Postman | VS Code | ZAP | Nessus
-1MAGNOVA/1MAGNOVA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Tools: Git | Linux | Postman | VS Code | ZAP | Nessus.
 --->
