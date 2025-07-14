@@ -32,7 +32,7 @@
 ```html
 Languages: Python | Bash | JavaScript | SQL
 Backend: Django | Flask | FastAPI | PostgreSQL
-DevOps: Docker | GitHub Actions | NGINX | NGROK | AWS (learning)
-Cybersecurity: Burp Suite | Nmap | Wireshark | Metasploit | Linux Hardening | OWASP
+DevOps: Docker | GitHub Actions | NGINX | NGROK | AWS (learning) | GCP(learning)
+Cybersecurity: Burp Suite | Nmap | Wireshark | Metasploit | Linux Hardening | OWASP 
 Tools: Git | Linux | Postman | VS Code | ZAP | Nessus.
 --->
