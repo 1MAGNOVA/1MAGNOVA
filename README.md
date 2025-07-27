@@ -14,7 +14,13 @@
 - 🔧 **Software Engineering** — building robust, scalable backend systems
 - ⚙️ **DevOps** — automating deployment and infrastructure as code
 - 🛡️ **Cybersecurity** — securing applications, networks, and systems from real-world threats
+---
 
+🛠️ I'm currently working on: **An AI CV APP**  
+🌱 I'm currently learning: **ORACLE MULTICLOUD OCI & Integrating AWS Services ☁️**  
+😄 Fun fact: **I have a funny Vocal range**
+
+---
 🔍 I don’t just learn cybersecurity — I **practice ethical hacking**, simulate attacks, and understand how real-world exploits work.
 
 ---
@@ -25,7 +31,29 @@
 
 🧠 **Ethical hacking fuels my curiosity**, teaches me how attackers think, and helps me build stronger defenses from the ground up.
 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1magnova&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1magnova&layout=compact&theme=radical)
+
 ---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1MAGNOVA&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=1MAGNOVA&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
 
 ### 🛠️ Tech Stack & Toolbelt
 
