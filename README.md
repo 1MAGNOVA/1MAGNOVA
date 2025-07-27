@@ -59,7 +59,7 @@
 
 ```html
 Languages: Python | Bash | JavaScript | SQL
-Tiny bit of frontend: HTML | CSS | JS | Bootstrap | React
+Tiny bit of frontend: HTML | CSS | JS | Bootstrap | React | Material UI
 Backend: Django | Flask | FastAPI | PostgreSQL
 DevOps: Docker | GitHub Actions | NGINX | NGROK | AWS (learning) | GCP(learning)
 Cybersecurity: Burp Suite | Nmap | Wireshark | Metasploit | Linux Hardening | OWASP 
