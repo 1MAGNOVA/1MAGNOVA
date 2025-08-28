@@ -17,7 +17,7 @@
 ---
 
 🛠️ I'm currently working on: **An AI CV APP**  
-🌱 I'm currently learning: **ORACLE MULTICLOUD OCI & Integrating AWS Services ☁️**  
+🌱 I'm currently learning: **Google Cloud Security & Integrating AWS Services ☁️**  
 😄 Fun fact: **I have a funny Vocal range**
 
 ---
