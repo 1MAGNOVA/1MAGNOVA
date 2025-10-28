@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Olalekan Sanni</h1>
-<h3 align="center">Fullstack (Focus on) Backend Engineer | DevOps Enthusiast | Ethical Hacker & Cybersecurity Analyst</h3>
+<h3 align="center">Backend Engineer | DevOps Enthusiast | Ethical Hacker & Cybersecurity Analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
