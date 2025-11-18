@@ -21,7 +21,7 @@
 😄 Fun fact: **I have a funny Vocal range**
 
 ---
-🔍 I don’t just learn cybersecurity — I **practice ethical hacking**, simulate attacks, and understand how real-world exploits work.
+🔍 ** I learn and practice ethical hacking**, simulate attacks, and understand how real-world exploits work.
 
 ---
 
