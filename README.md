@@ -9,7 +9,7 @@
 
 ### 💡 About Me
 
-💻 I’m a passionate learner on the **ALX ProDev Backend track** who thrives at the intersection of:
+💻 I’m a passionate learner who thrives at the intersection of:
 
 - 🔧 **Software Engineering** — building robust, scalable backend systems
 - ⚙️ **DevOps** — automating deployment and infrastructure as code
