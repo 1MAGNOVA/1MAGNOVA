@@ -32,9 +32,10 @@ I’m a Backend Engineer with practical experience in Python (Flask, Django) and
 
 ### Projects Highlights
 
-1. **[Backend API Project (Flask/Django)](https://github.com/1magnova/backend-api-flask)** – REST API with authentication, database integration, and Linux deployment.  
-2. **[Deployment & Automation Scripts](https://github.com/1magnova/deployment-automation)** – Bash scripts for server setup, Nginx configuration, and backend deployment.  
-3. **[Networking & Security Demo](https://github.com/1magnova/network-security-demo)** – VPN and firewall setup demo showcasing backend and security awareness.  
+1. **[Backend API Project (Flask/Django)](https://github.com/1magnova/backend-api-flask)** – REST API with authentication, database integration, and Linux deployment.[..in progress]
+2.  **[Backend API Project (Flask/Django)](https://github.com/1magnova/backend-api-fast-api)**[..in progress]
+3. **[Deployment & Automation Scripts](https://github.com/1magnova/deployment-automation)** – Bash scripts for server setup, Nginx configuration, and backend deployment.  [..in progress]
+4. **[Networking & Security Demo](https://github.com/1magnova/network-security-demo)** – VPN and firewall setup demo showcasing backend and security awareness. [..in progress] 
 
 > Each project includes clear README instructions and demonstrates skills I’ve actively used.  
 
